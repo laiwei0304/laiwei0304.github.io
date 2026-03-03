@@ -39,10 +39,10 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 - Coming soon!
 
 # 🎖 Honors and Awards
-- *2024.05* China College Student Computer Design Competition - **Provincial Second Prize**. 
-- *2024.04* Lanqiao National Software and Information Technology Professional Talent Competition (Algorithm Group - C/C++) - **Provincial Second Prize**. 
-- *2024.04* National English Competition for College Students - **Provincial Second Prize**. 
-- *2023.12* Chinese Mathematics Competition - **Provincial Third Prize**. 
+- *2024.05*, China College Student Computer Design Competition - **Provincial Second Prize**. 
+- *2024.04*, Lanqiao National Software and Information Technology Professional Talent Competition (Algorithm Group - C/C++) - **Provincial Second Prize**. 
+- *2024.04*, National English Competition for College Students - **Provincial Second Prize**. 
+- *2023.12*, Chinese Mathematics Competition - **Provincial Third Prize**. 
 
 # 📖 Educations
 - *2025.06 - 2028.06 (expected)*, Master of Electronic Information, Sichuan University. 
