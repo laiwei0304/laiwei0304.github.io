@@ -31,7 +31,7 @@ Hello, I’m Wei Lai (赖葳).
 
 Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This work proposes a dual-space partitioning method to enable high-quality 2DGS reconstruction of large-scale aerial scenes from 9K-resolution images on a single consumer GPU (e.g., RTX 4090) by strictly controlling memory usage. 
 </div>
 </div>
 
