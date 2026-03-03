@@ -45,7 +45,7 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 - *2023.12*, Chinese Mathematics Competition - **Provincial Third Prize**. 
 
 # 📖 Educations
-- *2025.06 - 2028.06 (expected)*, Master of Electronic Information, Sichuan University. 
+- *2025.09 - 2028.06 (expected)*, Master of Electronic Information, Sichuan University. 
 - *2021.09 - 2025.06*, Bachelor of Software Engineering, Sichuan University. 
 
 # 💻 Internships
