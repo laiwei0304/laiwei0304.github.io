@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I’m Wei Lai (赖葳).
+Hello, I’m Wei Lai (赖葳), a first-year Master's student at Sichuan University. I am passionate about real-time rendering, 3DGS / 4DGS, and game engine technologies.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉  I started the Tencent Games Remote Engine Technology Research & Practice Program.
 
 # 📝 Publications 
 
@@ -35,13 +35,18 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 </div>
 </div>
 
+# 🚀 Projects
+- Coming soon!
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05* China College Student Computer Design Competition - **Provincial Second Prize**. 
+- *2024.04* Lanqiao National Software and Information Technology Professional Talent Competition (Algorithm Group - C/C++) - **Provincial Second Prize**. 
+- *2024.04* National English Competition for College Students - **Provincial Second Prize**. 
+- *2023.12* Chinese Mathematics Competition - **Provincial Third Prize**. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06 - 2028.06 (expected)*, Master of Electronic Information, Sichuan University. 
+- *2021.09 - 2025.06*, Bachelor of Software Engineering, Sichuan University. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Coming soon!
