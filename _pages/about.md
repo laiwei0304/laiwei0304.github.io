@@ -24,7 +24,7 @@ Hello, I’m Wei Lai (赖葳).
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CGF</div><img src='images/cgf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gaussian Splatting for Large‐Scale Aerial Scene Reconstruction From Ultra‐High‐Resolution Images](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70265)
