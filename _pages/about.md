@@ -36,7 +36,17 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 </div>
 
 # 🚀 Projects
-- Coming soon!
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">C++</div><img src='images/cgf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UnrealGaussianSplatting](https://github.com/laiwei0304/UnrealGaussianSplatting)
+
+**Wei Lai**
+
+- A plugin for importing, loading, and rendering standard 3D Gaussian Splatting data in Unreal Engine.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.05*, China College Student Computer Design Competition - **Provincial Second Prize**. 
