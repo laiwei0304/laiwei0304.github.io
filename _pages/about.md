@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I’m Wei Lai (赖葳), a first-year Master's student at Sichuan University. I am passionate about real-time rendering, 3DGS / 4DGS, and game engine technologies.
+Hello, I’m Wei Lai (赖葳), a first-year Master's student at Sichuan University. I am passionate about Real-time Rendering, 3D Gaussian Splatting (3DGS), and Game Engine Technologies.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉  I started the Tencent Games Remote Engine Technology Research & Practice Program.
