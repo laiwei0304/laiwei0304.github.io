@@ -37,14 +37,14 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">C++</div><img src='images/ugs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UE / C++</div><img src='images/ugs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UnrealGaussianSplatting](https://github.com/laiwei0304/UnrealGaussianSplatting)
 
 **Wei Lai**
 
-- A plugin for importing, loading, and rendering standard 3D Gaussian Splatting data in Unreal Engine.
+- An Unreal Engine 5.5.4 plugin for importing, loading, and rendering 3D Gaussian Splatting data. It supports standard 3DGS PLY assets, runtime file loading, and a billboard-based rendering pipeline with basic editor tooling for inspection and scene placement.
 </div>
 </div>
 
