@@ -37,7 +37,7 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">C++</div><img src='images/cgf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">C++</div><img src='images/readme-preview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UnrealGaussianSplatting](https://github.com/laiwei0304/UnrealGaussianSplatting)
