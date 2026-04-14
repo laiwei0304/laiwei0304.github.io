@@ -44,7 +44,7 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 
 **Wei Lai**
 
-- An Unreal Engine 5.5.4 plugin for importing, loading, and rendering 3D Gaussian Splatting data. It supports standard 3DGS PLY assets, runtime file loading, and a billboard-based rendering pipeline with basic editor tooling for inspection and scene placement.
+- An Unreal Engine 5.5.4 plugin for importing, loading, and rendering 3DGS data. It supports standard 3DGS PLY assets, runtime file loading, and a billboard-based rendering pipeline with basic editor tooling for inspection and scene placement.
 </div>
 </div>
 
