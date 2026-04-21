@@ -46,6 +46,15 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Vulkan / C++</div><img src='images/chimi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ChimiEngine](https://github.com/laiwei0304/ChimiEngine)
+
+- A C++ / Vulkan engine project for building a lightweight forward rendering pipeline from the ground up. It supports scene-driven mesh rendering, camera and lighting, depth testing, texture sampling, transparent object blending and visibility culling.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.05*, China College Student Computer Design Competition - **Provincial Second Prize**. 
 - *2024.04*, Lanqiao National Software and Information Technology Professional Talent Competition (Algorithm Group - C/C++) - **Provincial Second Prize**. 
