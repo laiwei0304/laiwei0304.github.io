@@ -51,7 +51,7 @@ Qiulin Sun, **Wei Lai**, Yixian Li, Yanci Zhang
 
 [ChimiEngine](https://github.com/laiwei0304/ChimiEngine)
 
-- A C++ / Vulkan engine project for building a lightweight forward rendering pipeline from the ground up. It supports scene-driven mesh rendering, camera and lighting, depth testing, texture sampling, transparent object blending and visibility culling.
+- A personal real-time rendering engine designed as a hands-on exploration of graphics architecture, engine systems, and rendering workflows. It currently includes a platform layer, Vulkan rendering abstractions, ECS-based scene management, material and texture systems, and runnable samples.
 </div>
 </div>
 
